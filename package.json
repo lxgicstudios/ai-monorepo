@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-monorepo#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-monorepo"
+    "url": "git+https://github.com/LXGIC-Studios/ai-monorepo.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-monorepo/issues"
