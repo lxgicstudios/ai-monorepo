@@ -16,7 +16,7 @@
 
 # AI Monorepo
 
-solve specific development challenges with AI-powered insights.
+AI-powered monorepo setup — Turborepo, Nx, and pnpm workspace configuration from descriptions. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-monorepo.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-monorepo)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-monorepo?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-monorepo)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered monorepo setup - Turborepo/Nx configuration with GPT SEO-optimized optimization.
+> AI-powered monorepo setup — Turborepo, Nx, and pnpm workspace configuration with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
