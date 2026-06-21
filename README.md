@@ -1,13 +1,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LXGIC-Studios">
+  <a href="https://github.com/lxgicstudios">
     <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
   </a>
   <a href="https://npmjs.com/package/ai-monorepo">
     <img src="https://img.shields.io/npm/v/ai-monorepo.svg?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  <a href="https://github.com/LXGIC-Studios/ai-monorepo/actions">
+  <a href="https://github.com/lxgicstudios/ai-monorepo/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-monorepo/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 AI-powered monorepo setup — Turborepo, Nx, and pnpm workspace configuration from descriptions. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-monorepo.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-monorepo)
-[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-monorepo?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-monorepo)
-[![License: MIT](https://img.shields.io/npm/l/ai-monorepo.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-monorepo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-monorepo?style=for-the-badge&logo=github&label=stars)](https://github.com/lxgicstudios/ai-monorepo)
+[![License: MIT](https://img.shields.io/npm/l/ai-monorepo.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/lxgicstudios/ai-monorepo/blob/main/LICENSE)
 
 </div>
 
@@ -116,7 +116,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/LXGIC-Studios/ai-monorepo.git
+git clone https://github.com/lxgicstudios/ai-monorepo.git
 cd ai-monorepo
 npm install
 npm run dev
@@ -135,7 +135,7 @@ Built with ❤️ by the LXGIC Studios team.
 <div align="center">
 
 **Built by LXGIC Studios**  
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
 </div>
