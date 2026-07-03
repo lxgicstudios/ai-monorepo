@@ -38,7 +38,10 @@
     "turborepo",
     "nx",
     "package-management",
-    "site-architecture"
+    "site-architecture",
+    "technical-seo",
+    "seo-audit",
+    "page-speed"
   ],
   "license": "MIT",
   "main": "dist/index.js",
